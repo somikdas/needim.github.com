@@ -10,7 +10,7 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : ned.im
-tagline: just a blog asds
+tagline: just a blog
 author :
   name : Nedim Arabacı
   email : nedimarabaci@gmail.com
