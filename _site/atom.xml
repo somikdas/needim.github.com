@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>ned.im</title>
+ <link href="http://needim.github.com/atom.xml" rel="self"/>
+ <link href="http://needim.github.com"/>
+ <updated>2012-12-26T01:17:55+02:00</updated>
+ <id>http://needim.github.com</id>
+ <author>
+   <name>Nedim Arabacı</name>
+   <email>nedimarabaci@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Giriş</title>
+   <link href="http://needim.github.com/genel/2012/12/13/giris"/>
+   <updated>2012-12-13T00:00:00+02:00</updated>
+   <id>http://needim.github.com/genel/2012/12/13/giris</id>
+   <content type="html">&lt;p&gt;Fırsat buldukça buralarda birşeyler karalamayı planlamaktayım. Baştan bildireyim.&lt;/p&gt;</content>
+ </entry>
+ 
+ 
+</feed>
